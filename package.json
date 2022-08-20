@@ -1,0 +1,25 @@
+{
+  "name": "styled_component_ui",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "framer-motion": "^4.1.17",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^3.11.0",
+    "react-intersection-observer": "^8.32.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "0.9.5",
+    "react-slick": "^0.28.1",
+    "styled-components": "^5.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@iconify/react": "^3.2.2"
+  }
+}
